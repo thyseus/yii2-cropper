@@ -1,5 +1,5 @@
 {
-    "name": "demi/cropper",
+    "name": "thyseus/cropper",
     "description": "Yii2 wrapper for Image Cropper javascript library",
     "keywords": ["yii2", "image", "crop", "cropper", "widget"],
     "homepage": "https://github.com/demisang/yii2-cropper#readme",
@@ -11,6 +11,11 @@
             "email": "orlov_mail@mail.ru",
             "homepage": "https://orlov.io/",
             "role": "Creator"
+        },
+        {
+            "name": "Herbert Maschke",
+            "email": "thyseus@gmail.com",
+            "homepage": "https://github.com/thyseus",
         }
     ],
     "support": {
